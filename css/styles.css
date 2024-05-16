@@ -1,68 +1,49 @@
 body {
     font-family: "Roboto", sans-serif;
     background-color: #fff;
+    color: #434455;
 }
-
 ul {
-    list-style-type: none;
+    list-style: none;
 }
-
 a {
     text-decoration: none;
 }
 
 /* header */
-.header {
-}
-.header-nav {
- }
-
-.header-nav-logo {
+.logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    color: #4d5ae5
+}
+.logo-part {
     color: #2e2f42;
 }
-
-.accent {
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.16667;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4d5ae5;
-}
-
-.header-nav-list {
+.nav-link {
     font-family: "Roboto", sans-serif;
-}
-
-.header-nav-item {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-
-.header-address {
+.nav-link:hover,
+.nav-link:focus {
+color: #404bbf;
+}
+.address {
     color: #434455;
 }
-
-.header-address-list {
-    color: #434455;
-}
-
-.header-address-item { 
+.address-link {
     color: #434455;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.02em; 
 }
 
 /* Effective Solutions for Your Business */
