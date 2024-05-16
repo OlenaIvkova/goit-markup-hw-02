@@ -52,7 +52,7 @@ a {
 
 /* Effective Solutions for Your Business */
 .title {
-    background: #2e2f42;
+    background-color: #2e2f42;
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
@@ -61,7 +61,7 @@ a {
     text-align: center;
 }
 .button {
-    background: #4d5ae5;
+    background-color: #4d5ae5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -108,7 +108,7 @@ a {
     text-transform: capitalize;
 }
 .our-team-list {
-    background: #FFFFFF;
+    background-color: #FFFFFF;
 }
 .our-team-subtitle {
     font-family: "Roboto", sans-serif;
