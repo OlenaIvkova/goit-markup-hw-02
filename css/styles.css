@@ -3,11 +3,9 @@ body {
     background-color: #fff;
     color: #434455;
 }
-
 ul {
     list-style: none;
 }
-
 a {
     text-decoration: none;
 }
@@ -22,11 +20,9 @@ a {
     text-transform: uppercase;
     color: #4d5ae5
 }
-
 .logo-part {
     color: #2e2f42;
 }
-
 .nav-link {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -35,16 +31,13 @@ a {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-
 .nav-link:hover,
 .nav-link:focus {
     color: #404bbf;
 }
-
 .address {
     font-style: normal;
 }
-
 .address-link {
     color: #434455;
     font-weight: 400;
@@ -52,7 +45,6 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-
 .address-link:hover,
 .address-link:focus {
     color: #404bbf;
@@ -63,7 +55,6 @@ a {
     background: #2e2f42;
     color: #fff;
 }
-
 .button {
     background: #4d5ae5;
     font-family: "Roboto", sans-serif;
@@ -84,7 +75,6 @@ a {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-
 .features-text {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
@@ -103,7 +93,6 @@ a {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-
 .our-team-subtitle {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -112,11 +101,9 @@ a {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-
 .our-team-image {
     background: url;
 }
-
 .our-team-text {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
@@ -135,7 +122,6 @@ a {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-
 .our-portfolio-subtitle {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -144,11 +130,9 @@ a {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-
 .our-portfolio-image {
     background: url("path_to_image");
 }
-
 .our-portfolio-text {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
@@ -162,11 +146,9 @@ a {
 .footer {
     background: #2e2f42;
 }
-
 .footer-logo-part {
     color: #f4f4fd;
 }
-
 .footer-text {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
